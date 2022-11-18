@@ -15,6 +15,7 @@ use Drupal\Core\TypedData\DataDefinition;
  *   label = @Translation("Custom Field Type"),
  *   description = @Translation("Desc for Custom Field Type"),
  *   category = @Translation("Text"),
+ *   default_widget = "custom_field_widget",
  * )
  */
 
